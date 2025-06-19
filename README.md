@@ -1,23 +1,55 @@
-# Supervised Learning from Scratch 🧠
+# 🤖 ML, Deep Learning & NLP Practice
 
-This repository contains implementations of core supervised machine learning algorithms built from scratch using Python and NumPy — without relying on libraries like Scikit-Learn.
+This repository contains my hands-on practice notebooks and projects covering:
 
-## Algorithms Covered
+- Machine Learning
+- Deep Learning using Keras/TensorFlow
+- Natural Language Processing (NLP)
 
-- Linear Regression
-- Logistic Regression
-- Decision Tree (in progress)
-- K-Nearest Neighbors (in progress)
-- Naive Bayes (in progress)
+---
 
-## Tools Used
+## 📚 Topics Covered
 
-- Python 3.x
-- NumPy
-- Matplotlib (for visualization)
+### 🧠 Machine Learning
+- Data Cleaning & EDA
+- NumPy, Pandas Operations
+- Visualizations using Matplotlib & Seaborn
+- Preprocessing (Encoding, Scaling, Missing Data)
+- Model Building (Logistic Regression, etc.)
 
-## How to Run
+### 🧬 Deep Learning
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Keras + TensorFlow workflows
 
-1. Clone this repo:
+### 🗣️ Natural Language Processing (NLP)
+- Text preprocessing
+- Bag-of-Words, TF-IDF
+- Sentiment Analysis
+
+---
+
+## 🔧 Libraries Used
+
+- Python, NumPy, Pandas
+- scikit-learn
+- Matplotlib, Seaborn
+- Keras, TensorFlow
+- NLTK, spaCy, scikit-learn (for NLP)
+
+---
+
+## 📂 Folder Structure
+
+Each folder contains:
+- Clean, well-commented notebooks
+- Practical examples
+- Optional notes (`.md` files) and datasets
+
+---
+
+## 🚀 Getting Started
+
 ```bash
-https://github.com/Amma-Anjali/supervised-learning-from-scratch.git
+git clone https://github.com/your-username/ml-dl-nlp-practice.git
+
